@@ -1,6 +1,6 @@
 # Mini Project :  Form submission to Google Sheet 
 
-## Deployed site : [ https://asia-mtd.netlify.app/ ]
+## Deployed site : [ https://miniproj-registration-form.netlify.app/ ]
 
 ## Technologies:
 - React
