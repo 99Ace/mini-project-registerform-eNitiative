@@ -1,7 +1,7 @@
 # Mini Project :  Form submission to Google Sheet 
 
-## Deployed site : 
-[ https://miniproj-registration-form.netlify.app/ ]
+- Deployed link : [ https://miniproj-registration-form.netlify.app/ ]
+- Codes         : [https://github.com/99Ace/mini-project-registerform-eNitiative]
 
 ## Technologies:
 - React
